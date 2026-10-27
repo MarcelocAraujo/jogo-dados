@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "atividade-web-mobile",
     "name": "jogo-dados",
     "slug": "jogo-dados",
     "version": "1.0.0",
@@ -19,6 +20,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "26fc4684-fa75-48f2-b3b0-e3e4480d54b6"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/26fc4684-fa75-48f2-b3b0-e3e4480d54b6"
     }
   }
 }
